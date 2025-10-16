@@ -9,7 +9,7 @@ Une implémentation complète et optimisée d'un **Arbre Binaire de Recherche (A
 ## 👥 Contributeurs
 Ce projet a été réalisé par 3 développeurs :
 
-[Mahaisoa ( MrSicario)] - Structures de base et insertion
+[Mahaisoa ( MrSicario)] L1C-249 - Structures de base et insertion
 
 [Djamaldine] - Opérations et parcours
 
